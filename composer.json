@@ -29,7 +29,8 @@
         "certificationy/php-pack": "dev-master",
 
         "herrera-io/phar-update": "~1.0",
-        "kherge/amend": "~3.0"
+        "kherge/amend": "~3.0",
+        "dchabanenko/magento-pack": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.1",
